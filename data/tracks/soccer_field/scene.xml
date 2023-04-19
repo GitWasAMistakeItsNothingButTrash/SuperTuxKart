@@ -17,7 +17,6 @@
   <item id="gift_1" x="-0.36" y="0.15" z="-23.67" h="-30.00" />
   <item id="gift_1.001" x="-0.36" y="0.15" z="23.33" h="-210.00" />
   <item id="item_2" x="-33.29" y="0.15" z="0.19" h="210.00" />
-  <big-nitro id="item_2.001" x="31.71" y="0.15" z="0.19" h="30.00" />
   <default-start karts-per-row     ="2"
                  forwards-distance ="1.50"
                  sidewards-distance="3.00"

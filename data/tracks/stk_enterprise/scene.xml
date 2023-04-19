@@ -480,34 +480,6 @@
   <item id="box.029" x="167.50" y="11.00" z="-163.50" h="-90.00" />
   <banana id="banana" x="215.50" y="11.00" z="-30.50" h="-90.00" />
   <item id="box" x="163.50" y="11.00" z="-163.50" h="-90.00" />
-  <big-nitro id="nitro_b" x="281.50" y="9.00" z="3.00" h="-90.00" />
-  <small-nitro id="nitro_s.001" x="336.50" y="11.00" z="90.80" h="-90.00" />
-  <small-nitro id="nitro_s.004" x="158.50" y="11.00" z="88.80" h="-90.00" />
-  <small-nitro id="nitro_s.005" x="150.50" y="11.00" z="88.80" h="-90.00" />
-  <small-nitro id="nitro_s.006" x="247.50" y="11.00" z="-17.50" h="-90.00" />
-  <small-nitro id="nitro_s.007" x="247.50" y="11.00" z="-9.50" h="-90.00" />
-  <small-nitro id="nitro_s.008" x="247.50" y="11.00" z="23.50" h="-90.00" />
-  <small-nitro id="nitro_s.009" x="247.50" y="11.00" z="15.50" h="-90.00" />
-  <small-nitro id="nitro_s.010" x="317.50" y="11.00" z="15.50" h="-90.00" />
-  <small-nitro id="nitro_s.011" x="317.50" y="11.00" z="23.50" h="-90.00" />
-  <small-nitro id="nitro_s.012" x="317.50" y="11.00" z="-9.50" h="-90.00" />
-  <small-nitro id="nitro_s.013" x="317.50" y="11.00" z="-17.50" h="-90.00" />
-  <small-nitro id="nitro_s.014" x="-4.40" y="5.00" z="167.80" h="-90.00" />
-  <small-nitro id="nitro_s.015" x="-10.40" y="5.00" z="167.80" h="-90.00" />
-  <small-nitro id="nitro_s.016" x="-7.40" y="5.00" z="167.80" h="-90.00" />
-  <small-nitro id="nitro_s.017" x="24.48" y="5.00" z="192.04" h="-90.00" />
-  <small-nitro id="nitro_s.018" x="22.19" y="5.00" z="190.75" h="-90.00" />
-  <small-nitro id="nitro_s.019" x="33.50" y="5.00" z="-69.50" h="-90.00" />
-  <small-nitro id="nitro_s.020" x="33.50" y="5.00" z="-61.50" h="-90.00" />
-  <small-nitro id="nitro_s.021" x="123.50" y="5.00" z="-69.50" h="-270.00" />
-  <small-nitro id="nitro_s.022" x="123.50" y="5.00" z="-61.50" h="-270.00" />
-  <small-nitro id="nitro_s.023" x="60.50" y="5.00" z="206.00" h="-90.00" />
-  <small-nitro id="nitro_s.027" x="349.50" y="11.00" z="52.50" h="-90.00" />
-  <small-nitro id="nitro_s.028" x="182.50" y="11.00" z="-182.50" h="-90.00" />
-  <small-nitro id="nitro_s.030" x="214.96" y="11.00" z="-137.50" h="-90.00" />
-  <small-nitro id="nitro_s.031" x="208.06" y="11.00" z="-130.50" h="-90.00" />
-  <small-nitro id="nitro_s" x="194.50" y="11.00" z="-184.50" h="-90.00" />
-  <small-nitro id="nitro_s.033" x="188.50" y="11.00" z="-183.50" h="-90.00" />
   <object type="billboard" id="halo.007" texture="lightHaloY.png" xyz="5.48 -1.11 78.36" 
              width="13.867" height="6.933" >
   </object>

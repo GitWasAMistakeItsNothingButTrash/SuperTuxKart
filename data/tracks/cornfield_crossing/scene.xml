@@ -73,11 +73,8 @@
   <banana id="Empty.006" x="173.39" y="5.91" z="114.35" h="-50.57" />
   <item id="Empty.007" x="177.54" y="5.91" z="118.92" h="-130.57" />
   <banana id="Empty.008" x="175.95" y="5.91" z="116.62" />
-  <big-nitro id="Empty.009" x="128.40" y="2.84" z="123.21" />
   <banana id="Empty.010" x="123.94" y="2.84" z="123.21" />
   <banana id="Empty.011" x="132.55" y="2.84" z="123.21" />
-  <small-nitro id="Empty.012" x="179.16" y="5.54" z="40.57" />
-  <small-nitro id="Empty.013" x="186.16" y="5.54" z="40.57" />
   <banana id="Empty.014" x="182.66" y="5.54" z="40.57" />
   <banana id="Empty.015" x="127.76" y="10.58" z="-27.49" h="-10.02" />
   <item id="Empty.016" x="127.76" y="10.58" z="-30.49" h="-90.02" />
@@ -88,11 +85,7 @@
   <banana id="Empty.021" x="-66.05" y="8.73" z="-130.02" h="-26.74" />
   <item id="Empty.022" x="-63.59" y="8.73" z="-128.68" h="-157.31" />
   <banana id="Empty.023" x="-69.36" y="8.73" z="-130.89" h="-77.31" />
-  <small-nitro id="Empty.024" x="86.72" y="-0.44" z="-279.42" />
-  <small-nitro id="Empty.025" x="86.27" y="0.26" z="-283.81" />
   <banana id="Empty.026" x="-2.19" y="0.12" z="-51.14" />
-  <small-nitro id="Empty.027" x="-2.19" y="0.12" z="-46.90" />
-  <small-nitro id="Empty.028" x="2.27" y="0.12" z="-46.90" />
   <banana id="Empty.029" x="2.27" y="0.12" z="-51.14" />
   <light xyz="74.11 4.56 -95.75" id="Lamp" distance="5.00" energy="1.50" color="255 220 217" if="isTrackNotReverse">
   </light>

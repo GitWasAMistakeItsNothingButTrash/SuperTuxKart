@@ -641,21 +641,14 @@
   </object>
   <object type="sfx-emitter" id="radio.004" sound="static-radio.ogg" rolloff="0.000" volume="1.0" max_dist="5.0" xyz="11.64 -30.29 -7.43" hpr="0.0 -0.0 0.0" scale="5.22 5.22 5.22">
   </object>
-  <big-nitro id="ctf.000" x="-23.62" y="-28.23" z="26.13" ctf="true"/>
-  <big-nitro id="ctf.007" x="-32.98" y="-28.67" z="-16.96" h="-68.82" ctf="true"/>
   <item id="ctf.008" x="-29.37" y="-28.67" z="-14.05" h="-284.82" ctf="true"/>
   <item id="ctf.009" x="50.40" y="-14.31" z="23.79" h="-279.40" ctf="true"/>
-  <big-nitro id="ctf.010" x="-19.14" y="-20.97" z="11.57" ctf="true"/>
-  <big-nitro id="ctf.011" x="1.24" y="-19.93" z="20.63" ctf="true"/>
   <item id="ctf.014" x="-25.03" y="-28.23" z="30.54" h="-216.00" ctf="true"/>
-  <big-nitro id="ctf.015" x="47.10" y="-14.90" z="20.60" h="-63.48" ctf="true"/>
-  <big-nitro id="ctf.016" x="13.04" y="-27.96" z="-37.91" h="-63.48" ctf="true"/>
   <item id="ctf.021" x="16.34" y="-27.37" z="-34.72" h="-279.40" ctf="true"/>
   <item id="ctf.022" x="19.63" y="-17.86" z="-16.19" h="-144.00" ctf="true"/>
   <item id="ctf.023" x="4.96" y="-20.50" z="16.59" h="-144.00" ctf="true"/>
   <item id="ctf.024" x="-14.25" y="-20.50" z="9.85" h="-72.00" ctf="true"/>
   <item id="ctf.029" x="0.34" y="-19.33" z="-26.75" h="-144.00" ctf="true"/>
-  <small-nitro id="ctf.030" x="-21.24" y="-19.78" z="-24.11" ctf="true"/>
   <item id="Empty" x="-13.77" y="-20.50" z="-10.51" ctf="false"/>
   <item id="Empty.001" x="-14.25" y="-20.50" z="9.85" h="-72.00" ctf="false"/>
   <item id="Empty.002" x="4.96" y="-20.50" z="16.59" h="-144.00" ctf="false"/>
@@ -665,12 +658,6 @@
   <item id="Empty.010" x="9.66" y="-29.17" z="33.12" h="-216.00" ctf="false"/>
   <item id="Empty.011" x="-31.11" y="-29.17" z="19.19" h="-216.00" ctf="false"/>
   <item id="Empty.012" x="0.55" y="-29.17" z="-0.84" h="-216.00" ctf="false"/>
-  <big-nitro id="Empty.020" x="14.38" y="-19.93" z="23.65" ctf="false"/>
-  <big-nitro id="Empty.021" x="-22.98" y="-19.05" z="26.41" ctf="false"/>
-  <big-nitro id="Empty.022" x="-37.94" y="-17.89" z="-2.19" ctf="false"/>
-  <big-nitro id="Empty.023" x="-8.71" y="-19.38" z="-31.03" ctf="false"/>
-  <big-nitro id="Empty.024" x="30.15" y="-19.78" z="-18.76" ctf="false"/>
-  <small-nitro id="Empty.029" x="-8.68" y="-29.17" z="1.82" h="-216.00" ctf="false"/>
   <light xyz="-10.66 -27.94 12.28" id="Lamp" distance="2.00" energy="0.20" color="54 255 51">
   </light>
   <light xyz="13.78 -26.80 7.05" id="Lamp.001" distance="2.00" energy="0.20" color="255 26 15">

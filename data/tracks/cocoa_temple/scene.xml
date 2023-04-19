@@ -967,12 +967,7 @@
   <object type="sfx-emitter" id="Empty.051" sound="river_loop.ogg" rolloff="0.000" volume="1.0" max_dist="130.0" xyz="183.50 -2.19 133.56" hpr="0.0 45.0 0.0" scale="70.54 70.54 70.54">
   </object>
   <item id="Empty.000" x="287.95" y="20.77" z="-141.84" h="29.51" />
-  <big-nitro id="Empty.001" x="-54.04" y="0.10" z="-117.15" drop="false" />
-  <small-nitro id="Empty.002" x="227.67" y="8.46" z="23.84" />
   <banana id="Empty.003" x="232.85" y="8.26" z="24.46" />
-  <small-nitro id="Empty.004" x="253.17" y="14.67" z="-17.49" />
-  <small-nitro id="Empty.005" x="247.78" y="17.94" z="-18.62" />
-  <small-nitro id="Empty.006" x="242.01" y="19.03" z="-20.33" />
   <item id="Empty.007" x="190.46" y="-0.73" z="112.83" />
   <item id="Empty.008" x="190.46" y="-0.73" z="121.73" />
   <banana id="Empty.009" x="190.46" y="-0.73" z="117.12" />
@@ -989,25 +984,17 @@
   <item id="Empty.020" x="-24.67" y="20.77" z="-264.08" h="8.99" />
   <item id="Empty.021" x="-29.01" y="20.77" z="-268.06" h="8.99" />
   <item id="Empty.022" x="-33.75" y="20.77" z="-272.38" h="8.99" />
-  <small-nitro id="Empty.023" x="262.56" y="19.03" z="-91.31" />
   <item id="Empty.024" x="255.92" y="19.68" z="-79.96" h="106.59" />
   <banana id="Empty.025" x="245.58" y="11.70" z="26.05" />
   <banana id="Empty.026" x="253.41" y="11.70" z="25.03" />
   <banana id="Empty.027" x="-43.38" y="1.86" z="-100.20" h="-115.52" />
-  <small-nitro id="Empty.028" x="151.72" y="13.20" z="-231.74" />
-  <small-nitro id="Empty.029" x="121.05" y="7.60" z="-236.84" />
-  <small-nitro id="Empty.030" x="102.95" y="3.62" z="-255.63" />
   <item id="Empty.031" x="-64.15" y="3.18" z="-99.79" h="-86.01" />
   <item id="Empty.032" x="-43.62" y="-2.79" z="-138.11" h="-266.01" />
   <banana id="Empty.033" x="-63.74" y="-2.64" z="-137.70" h="-295.52" />
-  <small-nitro id="Empty.035" x="239.47" y="11.76" z="-200.69" />
-  <small-nitro id="Empty.036" x="313.89" y="19.03" z="-146.18" />
   <item id="Empty.052" x="91.43" y="-0.73" z="35.18" h="-14.00" />
   <item id="Empty.053" x="205.39" y="22.23" z="-239.90" h="-168.27" />
-  <big-nitro id="Empty.055" x="300.36" y="14.40" z="-196.30" />
   <item id="Empty.057" x="301.96" y="16.41" z="-200.95" />
   <item id="Empty.058" x="194.34" y="6.86" z="-218.20" h="8.99" />
-  <big-nitro id="Empty.059" x="24.03" y="-2.15" z="-311.81" />
   <light xyz="-67.00 0.97 -190.30" id="Lamp" distance="25.00" energy="5.00" color="255 80 25">
   </light>
   <light xyz="-66.19 0.97 -204.98" id="Lamp.001" distance="25.00" energy="5.00" color="255 80 25">

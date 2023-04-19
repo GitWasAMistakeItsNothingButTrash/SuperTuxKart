@@ -69,35 +69,19 @@
                 same-group="0 4 5"/>
   </checks>
   <item id="Empty.000" x="74.00" y="-0.13" z="98.24" />
-  <small-nitro id="Empty.001" x="96.66" y="-13.19" z="-135.58" h="-96.66" />
   <item id="Empty.002" x="74.00" y="-0.13" z="101.83" />
-  <big-nitro id="Empty.004" x="105.00" y="2.41" z="105.00" />
   <item id="Empty.005" x="224.82" y="9.64" z="98.00" />
   <item id="Empty.006" x="228.00" y="1.20" z="98.00" />
   <item id="Empty.007" x="228.00" y="1.15" z="102.00" />
   <item id="Empty.008" x="229.05" y="9.64" z="98.00" />
   <item id="Empty.009" x="237.50" y="2.38" z="22.00" />
-  <small-nitro id="Empty.010" x="239.58" y="2.01" z="23.37" />
-  <small-nitro id="Empty.011" x="196.94" y="2.01" z="-49.28" />
   <item id="Empty.012" x="140.94" y="-17.91" z="-36.27" h="-14.32" />
   <item id="Empty.013" x="136.10" y="-17.91" z="-35.03" h="-14.32" />
   <item id="Empty.014" x="53.34" y="-7.91" z="-82.39" h="-32.34" />
   <item id="Empty.015" x="241.62" y="2.38" z="24.56" />
-  <small-nitro id="Empty.016" x="239.36" y="2.01" z="-52.18" />
-  <small-nitro id="Empty.017" x="243.98" y="2.01" z="-56.45" />
-  <small-nitro id="Empty.018" x="241.71" y="2.01" z="-54.25" />
-  <small-nitro id="Empty.019" x="193.20" y="2.01" z="-52.61" />
   <item id="Empty.020" x="195.16" y="2.01" z="-50.66" />
   <item id="Empty.021" x="51.66" y="-7.91" z="-84.88" h="-32.34" />
   <item id="Empty.022" x="49.95" y="-7.91" z="-87.42" h="-32.34" />
-  <small-nitro id="Empty.023" x="288.08" y="6.41" z="167.58" />
-  <small-nitro id="Empty.024" x="286.39" y="6.41" z="165.53" />
-  <small-nitro id="Empty.025" x="284.44" y="6.41" z="163.37" />
-  <small-nitro id="Empty.026" x="159.64" y="0.56" z="95.89" h="45.00" />
-  <small-nitro id="Empty.027" x="159.50" y="0.56" z="98.79" h="45.00" />
-  <small-nitro id="Empty.028" x="159.24" y="0.56" z="101.44" h="45.00" />
-  <small-nitro id="Empty.030" x="96.97" y="-13.19" z="-132.76" h="-98.92" />
-  <big-nitro id="Empty.031" x="96.23" y="-13.19" z="-138.55" h="-96.93" />
   <object type="billboard" id="Plane.041" texture="halo.png" xyz="92.75 4.86 99.77" 
              width="3.188" height="3.188" >
   </object>

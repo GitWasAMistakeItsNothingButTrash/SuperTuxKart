@@ -187,8 +187,6 @@
   <water model="Water.spm" xyz="-42.98 -57.32 2.96" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00" height="0.20" speed="200.00" length="2.00">
     <animated-texture name="water.png" dx="0.01000"  dy="-0.00500" />
   </water>
-  <small-nitro id="Empty" x="-17.75" y="1.20" z="-20.61" />
-  <small-nitro id="Empty.001" x="-27.86" y="1.20" z="-20.61" />
   <item id="Empty.002" x="-63.85" y="1.87" z="-36.48" />
   <item id="Empty.003" x="-66.76" y="3.18" z="-25.15" />
   <item id="Empty.004" x="-67.26" y="3.41" z="-33.07" />
@@ -196,10 +194,6 @@
   <item id="Empty.006" x="-93.77" y="-7.48" z="21.13" />
   <item id="Empty.007" x="-93.68" y="-7.92" z="23.78" />
   <banana id="Empty.014" x="-63.58" y="-8.40" z="23.36" />
-  <small-nitro id="Empty.018" x="93.49" y="1.20" z="-0.43" />
-  <small-nitro id="Empty.019" x="96.19" y="1.20" z="-8.13" />
-  <small-nitro id="Empty.020" x="107.42" y="1.20" z="-0.43" />
-  <small-nitro id="Empty.021" x="105.34" y="1.20" z="-7.71" />
   <item id="Empty.022" x="102.82" y="1.55" z="-51.77" />
   <item id="Empty.023" x="96.43" y="2.44" z="-53.81" />
   <item id="Empty.026" x="-60.04" y="-4.37" z="51.43" />
@@ -208,10 +202,6 @@
   <item id="Empty.029" x="-45.33" y="-6.15" z="51.96" />
   <item id="Empty.030" x="-32.17" y="1.55" z="30.91" />
   <item id="Empty.031" x="-26.60" y="1.55" z="42.69" />
-  <small-nitro id="Empty.032" x="1.55" y="-5.22" z="23.34" />
-  <small-nitro id="Empty.033" x="11.53" y="-6.24" z="24.64" />
-  <small-nitro id="Empty.034" x="88.16" y="-2.58" z="77.01" />
-  <small-nitro id="Empty.035" x="98.59" y="-1.12" z="76.27" />
   <item id="Empty.036" x="0.57" y="-5.14" z="34.19" />
   <item id="Empty.037" x="15.34" y="-3.02" z="34.34" />
   <item id="Empty.038" x="26.22" y="-3.58" z="24.67" />

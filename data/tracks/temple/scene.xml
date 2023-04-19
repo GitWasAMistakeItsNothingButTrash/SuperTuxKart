@@ -4628,28 +4628,18 @@
   <banana id="banana.011" x="96.53" y="1.74" z="-105.04" h="-180.00" ctf="true"/>
   <banana id="Empty.002" x="38.01" y="0.57" z="164.58" ctf="true"/>
   <banana id="Empty.003" x="37.32" y="0.57" z="151.19" ctf="true"/>
-  <small-nitro id="Empty.004" x="87.67" y="0.57" z="124.53" h="-90.00" ctf="true"/>
-  <big-nitro id="Empty.005" x="101.18" y="0.57" z="124.79" h="-90.00" ctf="true"/>
   <item id="Empty.006" x="-75.17" y="0.57" z="147.10" ctf="true"/>
   <item id="Empty.007" x="-74.49" y="0.57" z="165.26" ctf="true"/>
-  <small-nitro id="Empty.008" x="-75.17" y="0.57" z="156.64" ctf="true"/>
-  <small-nitro id="Empty.009" x="-95.07" y="0.57" z="60.38" h="90.00" ctf="true"/>
   <item id="Empty.010" x="-103.69" y="0.57" z="61.07" h="90.00" ctf="true"/>
   <item id="Empty.011" x="-85.52" y="0.57" z="60.38" h="90.00" ctf="true"/>
   <item id="Empty.012" x="105.38" y="0.57" z="59.02" h="90.00" ctf="true"/>
   <item id="Empty.013" x="87.22" y="0.57" z="58.34" h="90.00" ctf="true"/>
-  <small-nitro id="Empty.014" x="95.84" y="0.57" z="59.02" h="90.00" ctf="true"/>
-  <small-nitro id="Empty.015" x="-94.14" y="0.57" z="-56.32" h="-90.00" ctf="true"/>
   <item id="Empty.016" x="-85.52" y="0.57" z="-55.64" h="-90.00" ctf="true"/>
   <item id="Empty.017" x="-103.69" y="0.57" z="-56.32" h="-90.00" ctf="true"/>
   <item id="Empty.018" x="87.22" y="0.57" z="-57.69" h="-90.00" ctf="true"/>
   <item id="Empty.019" x="105.38" y="0.57" z="-58.37" h="-90.00" ctf="true"/>
-  <small-nitro id="Empty.020" x="96.76" y="0.57" z="-57.69" h="-90.00" ctf="true"/>
-  <small-nitro id="Empty.021" x="76.87" y="0.57" z="-153.94" h="-180.00" ctf="true"/>
   <item id="Empty.022" x="76.19" y="0.57" z="-162.56" h="-180.00" ctf="true"/>
   <item id="Empty.023" x="76.87" y="0.57" z="-144.40" h="-180.00" ctf="true"/>
-  <big-nitro id="Empty.024" x="-99.48" y="0.57" z="-122.09" h="-270.00" ctf="true"/>
-  <small-nitro id="Empty.025" x="-85.97" y="0.57" z="-121.84" h="-270.00" ctf="true"/>
   <banana id="Empty.026" x="-35.63" y="0.57" z="-148.49" h="-180.00" ctf="true"/>
   <banana id="Empty.027" x="-36.31" y="0.57" z="-161.88" h="-180.00" ctf="true"/>
   <item id="item.000" x="-14.15" y="17.70" z="24.40" ctf="false"/>
@@ -4678,26 +4668,6 @@
   <item id="item.023" x="15.17" y="3.01" z="-156.65" ctf="false"/>
   <item id="item.024" x="-15.03" y="3.01" z="-156.22" ctf="false"/>
   <banana id="item.025" x="-31.40" y="17.70" z="-20.44" ctf="true"/>
-  <big-nitro id="nitro_big" x="29.99" y="17.70" z="-20.36" ctf="false"/>
-  <big-nitro id="nitro_big.001" x="-29.42" y="17.70" z="24.23" ctf="false"/>
-  <big-nitro id="nitro_big.002" x="-95.57" y="17.70" z="0.74" ctf="false"/>
-  <big-nitro id="nitro_big.003" x="92.37" y="17.70" z="0.35" ctf="false"/>
-  <big-nitro id="nitro_big.004" x="-29.42" y="17.70" z="24.23" ctf="true"/>
-  <big-nitro id="nitro_big.005" x="29.99" y="17.70" z="-20.36" ctf="true"/>
-  <small-nitro id="nitro_big.006" x="18.40" y="17.70" z="25.18" ctf="true"/>
-  <small-nitro id="nitro_big.007" x="-16.41" y="17.70" z="-20.36" ctf="true"/>
-  <small-nitro id="nitro_small" x="-37.28" y="4.05" z="163.52" ctf="false"/>
-  <small-nitro id="nitro_small.009" x="-39.97" y="1.91" z="-147.82" ctf="false"/>
-  <small-nitro id="nitro_small.010" x="-39.97" y="1.91" z="-155.72" ctf="false"/>
-  <small-nitro id="nitro_small.011" x="-39.74" y="1.91" z="-162.79" ctf="false"/>
-  <small-nitro id="nitro_small.012" x="34.50" y="2.30" z="-162.79" ctf="false"/>
-  <small-nitro id="nitro_small.013" x="34.27" y="2.30" z="-155.72" ctf="false"/>
-  <small-nitro id="nitro_small.014" x="34.27" y="2.30" z="-147.82" ctf="false"/>
-  <small-nitro id="nitro_small.015" x="34.27" y="2.46" z="163.52" ctf="false"/>
-  <small-nitro id="nitro_small.016" x="34.27" y="2.46" z="155.63" ctf="false"/>
-  <small-nitro id="nitro_small.017" x="34.50" y="2.46" z="148.56" ctf="false"/>
-  <small-nitro id="nitro_small.018" x="-37.04" y="4.05" z="148.56" ctf="false"/>
-  <small-nitro id="nitro_small.019" x="-37.28" y="4.05" z="155.63" ctf="false"/>
   <light xyz="22.50 0.00 -22.50" id="Point" distance="90.00" energy="30.00" color="255 38 5">
   </light>
   <light xyz="-22.50 0.00 22.50" id="Point.001" distance="90.00" energy="30.00" color="255 38 5">

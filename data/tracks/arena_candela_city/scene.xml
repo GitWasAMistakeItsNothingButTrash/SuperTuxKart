@@ -243,12 +243,10 @@
   <object type="sfx-emitter" id="Empty.119" sound="lenautile_restaurant.ogg" rolloff="0.200" volume="1.0" max_dist="60.0" xyz="-175.37 -8.77 18.13" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00">
   </object>
   <item id="Empty" x="-47.87" y="-10.24" z="0.03" ctf="false"/>
-  <small-nitro id="Empty.001" x="-53.65" y="-10.24" z="-0.65" ctf="false"/>
   <banana id="Empty.002" x="-90.87" y="-10.24" z="0.03" ctf="false"/>
   <item id="Empty.003" x="-84.87" y="-10.24" z="0.03" ctf="false"/>
   <banana id="Empty.004" x="-130.87" y="-10.24" z="0.03" ctf="false"/>
   <item id="Empty.005" x="-124.87" y="-10.24" z="0.03" ctf="false"/>
-  <big-nitro id="Empty.006" x="-135.87" y="-10.24" z="-0.97" ctf="false"/>
   <banana id="Empty.007" x="-177.87" y="-10.24" z="0.03" ctf="false"/>
   <item id="Empty.008" x="-171.58" y="-10.24" z="0.03" ctf="false"/>
   <banana id="Empty.009" x="-165.87" y="-10.24" z="0.03" ctf="false"/>
@@ -263,39 +261,20 @@
   <banana id="Empty.033" x="-304.67" y="-4.86" z="13.05" ctf="false"/>
   <banana id="Empty.040" x="-304.63" y="-4.86" z="-12.03" ctf="false"/>
   <banana id="Empty.041" x="-295.20" y="-4.86" z="-12.03" ctf="false"/>
-  <big-nitro id="Empty.042" x="-77.28" y="-10.24" z="0.03" ctf="false"/>
   <item id="Empty.043" x="-80.11" y="-10.24" z="80.24" h="-20.00" ctf="false"/>
-  <big-nitro id="Empty.044" x="-76.81" y="-10.24" z="84.09" ctf="false"/>
-  <big-nitro id="Empty.045" x="-250.39" y="-10.24" z="133.65" ctf="false"/>
-  <small-nitro id="Empty.046" x="-136.07" y="-10.24" z="53.78" ctf="false"/>
-  <small-nitro id="Empty.047" x="-123.41" y="-10.24" z="54.15" ctf="false"/>
-  <small-nitro id="Empty.048" x="-123.41" y="-10.24" z="-55.27" ctf="false"/>
-  <small-nitro id="Empty.049" x="-136.07" y="-10.24" z="-55.63" ctf="false"/>
   <item id="Empty.050" x="-110.01" y="-10.24" z="-55.40" h="-20.00" ctf="false"/>
   <item id="Empty.051" x="-151.31" y="-10.24" z="-54.71" h="-20.00" ctf="false"/>
-  <big-nitro id="Empty.052" x="-250.43" y="-10.24" z="-133.50" h="-92.85" ctf="false"/>
   <item id="Empty.053" x="-79.42" y="-10.24" z="-85.50" h="16.13" ctf="false"/>
-  <big-nitro id="Empty.054" x="-79.03" y="-10.24" z="-80.44" h="36.13" ctf="false"/>
   <item id="Empty.055" x="-255.32" y="-10.24" z="-127.53" h="-112.85" ctf="false"/>
   <banana id="Empty.056" x="-299.96" y="-4.86" z="-12.03" ctf="false"/>
   <banana id="Empty.057" x="-300.03" y="-4.86" z="13.05" ctf="false"/>
   <banana id="Empty.058" x="-255.32" y="-10.24" z="-127.53" h="-112.85" ctf="true"/>
-  <small-nitro id="Empty.059" x="-79.03" y="-10.24" z="-80.44" h="36.13" ctf="true"/>
   <banana id="Empty.060" x="-79.42" y="-10.24" z="-85.50" h="16.13" ctf="true"/>
-  <small-nitro id="Empty.061" x="-250.43" y="-10.24" z="-133.50" h="-92.85" ctf="true"/>
   <item id="Empty.062" x="-151.31" y="-10.24" z="-54.71" h="-20.00" ctf="true"/>
   <item id="Empty.063" x="-90.19" y="-10.24" z="-53.93" h="-20.00" ctf="true"/>
-  <small-nitro id="Empty.064" x="-136.07" y="-10.24" z="-55.63" ctf="true"/>
-  <small-nitro id="Empty.065" x="-123.41" y="-10.24" z="-55.27" ctf="true"/>
-  <small-nitro id="Empty.066" x="-123.41" y="-10.24" z="54.15" ctf="true"/>
-  <small-nitro id="Empty.067" x="-136.07" y="-10.24" z="53.78" ctf="true"/>
-  <small-nitro id="Empty.068" x="-250.39" y="-10.24" z="133.65" ctf="true"/>
   <banana id="Empty.069" x="-80.11" y="-10.24" z="80.24" h="-20.00" ctf="true"/>
-  <small-nitro id="Empty.070" x="-76.81" y="-10.24" z="84.09" ctf="true"/>
-  <small-nitro id="Empty.071" x="-53.65" y="-10.24" z="-0.65" ctf="true"/>
   <item id="Empty.072" x="-90.19" y="-10.24" z="55.49" h="-20.00" ctf="true"/>
   <item id="Empty.073" x="-151.31" y="-10.24" z="54.71" h="-20.00" ctf="true"/>
-  <big-nitro id="Empty.074" x="-77.28" y="-10.24" z="0.03" ctf="true"/>
   <banana id="Empty.075" x="-295.20" y="-4.86" z="-12.03" ctf="true"/>
   <banana id="Empty.076" x="-304.63" y="-4.86" z="-12.03" ctf="true"/>
   <banana id="Empty.077" x="-304.67" y="-4.86" z="13.05" ctf="true"/>
@@ -306,7 +285,6 @@
   <banana id="Empty.082" x="-177.87" y="-10.24" z="0.03" ctf="true"/>
   <banana id="Empty.083" x="-165.87" y="-10.24" z="0.03" ctf="true"/>
   <item id="Empty.084" x="-171.58" y="-10.24" z="0.03" ctf="true"/>
-  <big-nitro id="Empty.085" x="-135.87" y="-10.24" z="-0.97" ctf="true"/>
   <item id="Empty.086" x="-124.87" y="-10.24" z="0.03" ctf="true"/>
   <banana id="Empty.087" x="-130.87" y="-10.24" z="0.03" ctf="true"/>
   <banana id="Empty.088" x="-90.87" y="-10.24" z="0.03" ctf="true"/>
@@ -316,14 +294,8 @@
   <item id="Empty.092" x="-230.60" y="-10.24" z="-87.62" h="-20.00" ctf="true"/>
   <item id="Empty.093" x="-151.31" y="-10.24" z="99.66" h="-20.00" ctf="true"/>
   <item id="Empty.094" x="-152.05" y="-10.24" z="-100.75" h="-20.00" ctf="true"/>
-  <small-nitro id="Empty.095" x="-183.79" y="-10.24" z="59.83" ctf="true"/>
-  <small-nitro id="Empty.096" x="-183.79" y="-10.24" z="-59.10" ctf="true"/>
   <item id="Empty.097" x="-109.28" y="-10.24" z="54.76" h="-20.00" ctf="true"/>
   <item id="Empty.098" x="-109.28" y="-10.24" z="-54.66" h="-20.00" ctf="true"/>
-  <small-nitro id="Empty.099" x="-100.65" y="-10.24" z="54.89" ctf="true"/>
-  <small-nitro id="Empty.100" x="-100.65" y="-10.24" z="-54.53" ctf="true"/>
-  <small-nitro id="Empty.101" x="-201.41" y="-10.24" z="-64.97" ctf="true"/>
-  <small-nitro id="Empty.102" x="-202.87" y="-10.24" z="66.43" ctf="true"/>
   <light xyz="-144.01 -5.86 -170.83" id="Lamp" distance="15.00" energy="1.50" color="0 10 255">
   </light>
   <light xyz="-49.41 1.90 -21.65" id="Lamp.001" distance="15.00" energy="1.50" color="0 143 255">

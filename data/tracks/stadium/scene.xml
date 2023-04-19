@@ -9,19 +9,15 @@
   <item id="Empty.001" x="-51.29" y="-61.13" z="48.62" h="210.00" ctf="false"/>
   <item id="Empty.002" x="25.16" y="-61.13" z="89.29" h="140.39" ctf="false"/>
   <banana id="Empty.003" x="-102.56" y="-61.13" z="36.62" h="210.00" ctf="false"/>
-  <big-nitro id="Empty.004" x="18.62" y="-61.13" z="99.47" h="140.39" ctf="false"/>
   <item id="Empty.005" x="10.90" y="-61.35" z="106.38" h="150.00" ctf="false"/>
   <banana id="Empty.006" x="-51.29" y="-61.13" z="48.62" h="210.00" ctf="true"/>
   <item id="Empty.007" x="-16.94" y="-61.13" z="47.66" h="150.00" ctf="true"/>
   <item id="Empty.008" x="-98.84" y="-61.13" z="42.76" h="210.00" ctf="true"/>
-  <big-nitro id="Empty.009" x="21.16" y="-61.13" z="41.19" h="150.00" ctf="true"/>
-  <big-nitro id="Empty.010" x="-97.36" y="-61.13" z="5.05" h="-30.00" ctf="true"/>
   <item id="Empty.011" x="21.91" y="-61.13" z="4.43" h="30.00" ctf="true"/>
   <item id="Empty.012" x="-56.63" y="-61.13" z="-2.86" h="-30.00" ctf="true"/>
   <banana id="Empty.013" x="-16.52" y="-61.13" z="-2.14" h="30.00" ctf="true"/>
   <banana id="Empty.014" x="29.06" y="-61.13" z="8.26" h="210.00" ctf="false"/>
   <item id="gift" x="-72.72" y="-61.13" z="-67.48" h="30.00" ctf="false"/>
-  <big-nitro id="item" x="-84.64" y="-61.13" z="-59.11" h="-30.00" ctf="false"/>
   <item id="item.001" x="-93.37" y="-61.13" z="-51.11" h="-30.00" ctf="false"/>
   <item id="start_p1.001" x="-51.29" y="-61.13" z="-1.35" h="-30.00" ctf="false"/>
   <item id="start_p1.002" x="-22.45" y="-61.13" z="-1.35" h="30.00" ctf="false"/>

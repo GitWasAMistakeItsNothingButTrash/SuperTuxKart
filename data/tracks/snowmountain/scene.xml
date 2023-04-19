@@ -122,19 +122,6 @@
   <item id="Item.010" x="62.76" y="1.06" z="-12.67" />
   <item id="Item.011" x="56.65" y="-0.35" z="-34.83" />
   <item id="Item.012" x="66.42" y="-0.35" z="-35.21" />
-  <small-nitro id="nitro-big" x="-16.31" y="1.59" z="62.15" />
-  <small-nitro id="nitro-big.001" x="-63.99" y="2.49" z="36.84" />
-  <big-nitro id="nitro-big.002" x="-64.31" y="2.49" z="28.88" />
-  <small-nitro id="nitro-big.003" x="-78.67" y="1.76" z="-102.28" />
-  <small-nitro id="nitro-big.004" x="3.54" y="11.39" z="-45.87" />
-  <small-nitro id="nitro-big.005" x="21.64" y="-3.28" z="-99.47" />
-  <small-nitro id="nitro-big.006" x="21.64" y="-3.28" z="-106.03" />
-  <small-nitro id="nitro-small" x="-12.10" y="1.59" z="65.03" />
-  <big-nitro id="nitro-small.001" x="-77.82" y="1.76" z="-110.90" />
-  <small-nitro id="nitro-small.002" x="-78.39" y="1.76" z="-106.10" />
-  <small-nitro id="nitro-small.003" x="-64.20" y="10.83" z="-45.88" />
-  <small-nitro id="nitro-small.004" x="27.64" y="9.62" z="-2.85" />
-  <small-nitro id="nitro-small.005" x="62.16" y="-0.35" z="-34.83" />
   <light xyz="-120.32 10.25 -5.04" id="Lamp.001" distance="15.00" energy="1.00" color="255 238 97">
   </light>
   <light xyz="-87.82 8.14 24.87" id="Lamp.002" distance="15.00" energy="1.00" color="255 238 97">

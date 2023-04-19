@@ -380,41 +380,25 @@
   <banana id="Empty" x="7.68" y="-0.08" z="17.70" h="-44.03" />
   <item id="Empty.001" x="10.32" y="-0.08" z="15.24" h="-44.03" />
   <item id="Empty.002" x="5.25" y="-0.08" z="20.34" h="-44.03" />
-  <small-nitro id="Empty.003" x="69.18" y="6.15" z="-120.83" />
-  <small-nitro id="Empty.004" x="84.81" y="6.15" z="-127.64" />
-  <small-nitro id="Empty.005" x="93.10" y="8.65" z="-142.68" />
-  <small-nitro id="Empty.006" x="92.95" y="10.86" z="-158.45" />
   <item id="Empty.007" x="15.04" y="15.47" z="-165.77" h="-135.88" />
   <item id="Empty.008" x="10.73" y="15.47" z="-169.95" h="-135.88" />
   <banana id="Empty.009" x="12.89" y="15.47" z="-167.86" h="-135.88" />
-  <small-nitro id="Empty.010" x="-52.71" y="23.11" z="-204.36" />
   <item id="Empty.011" x="23.74" y="32.09" z="-274.11" h="-178.47" />
   <item id="Empty.012" x="29.74" y="31.28" z="-321.18" h="-178.47" />
-  <small-nitro id="Empty.013" x="-48.68" y="23.11" z="-200.77" />
-  <small-nitro id="Empty.014" x="-56.66" y="23.11" z="-208.29" />
-  <big-nitro id="Empty.015" x="140.22" y="-12.10" z="-159.19" />
   <banana id="Empty.016" x="141.31" y="-12.10" z="-156.51" />
   <banana id="Empty.017" x="139.63" y="-12.10" z="-161.25" />
   <item id="Empty.018" x="81.78" y="16.22" z="-389.21" h="-281.32" />
   <item id="Empty.019" x="83.39" y="16.22" z="-381.48" h="-281.32" />
   <item id="Empty.020" x="82.54" y="16.15" z="-385.25" h="-281.32" />
-  <big-nitro id="Empty.021" x="191.95" y="-14.09" z="-53.67" drop="false" />
   <item id="Empty.022" x="173.92" y="-8.49" z="7.32" h="45.24" />
   <item id="Empty.023" x="178.14" y="-8.49" z="11.58" h="45.24" />
   <banana id="Empty.024" x="176.03" y="-8.49" z="9.45" h="45.24" />
-  <small-nitro id="Empty.025" x="32.18" y="29.69" z="-356.89" />
-  <small-nitro id="Empty.026" x="43.86" y="27.28" z="-370.45" />
-  <small-nitro id="Empty.027" x="56.31" y="24.12" z="-380.02" />
   <item id="Empty.029" x="24.22" y="23.97" z="-314.49" />
   <item id="Empty.030" x="28.46" y="24.58" z="-314.49" />
   <item id="Empty.031" x="31.97" y="24.58" z="-314.49" />
   <banana id="Empty.032" x="205.06" y="-5.92" z="-46.43" h="-65.00" />
   <banana id="Empty.033" x="217.27" y="-5.92" z="-42.90" h="-65.00" />
   <item id="Empty.034" x="109.98" y="-8.49" z="48.69" h="73.79" />
-  <small-nitro id="Empty.035" x="108.31" y="-8.49" z="42.93" h="73.79" />
-  <small-nitro id="Empty.036" x="-21.72" y="12.53" z="-313.96" />
-  <small-nitro id="Empty.037" x="-18.23" y="9.75" z="-313.06" />
-  <small-nitro id="Empty.038" x="-25.51" y="15.55" z="-314.49" />
   <object type="billboard" id="Plane.106" texture="stklib_moonDecal_a.png" xyz="295.14 263.57 -713.00" 
              width="129.636" height="129.636" >
   </object>

@@ -11,9 +11,7 @@
   <item id="eBox.005" x="20.71" y="-16.71" z="4.60" />
   <item id="eNitroSmall.001" x="-41.85" y="-17.47" z="-28.72" />
   <item id="eNitroSmall.006" x="60.56" y="-7.90" z="16.60" />
-  <big-nitro id="eNitroSmall.007" x="63.72" y="-8.22" z="3.71" />
   <item id="eNitroSmall.008" x="38.36" y="-18.06" z="-20.49" />
-  <big-nitro id="eStart.001" x="33.96" y="-15.46" z="-48.45" h="90.00" />
   <item id="eStart.003" x="-25.22" y="-15.46" z="-20.22" h="-90.00" />
   <light xyz="-32.86 -11.04 -50.17" id="Point" distance="35.00" energy="10.00" color="255 207 187">
   </light>

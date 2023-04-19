@@ -10,8 +10,6 @@
   <sky-box texture="genericskybox_top.jpg genericskybox_bottom.jpg genericskybox_east.jpg genericskybox_west.jpg genericskybox_south.jpg genericskybox_north.jpg" />
   <camera far="1000.0"/>
   <item id="Nitro Big.000" x="-3.26" y="-1.50" z="-41.53" h="-43.79" />
-  <big-nitro id="Nitro Big.001" x="-3.16" y="-1.32" z="0.19" />
-  <big-nitro id="Nitro Big.002" x="-3.16" y="2.17" z="0.19" />
   <item id="Nitro Big.003" x="38.74" y="-1.34" z="-0.39" h="-43.79" />
   <item id="Nitro Big.004" x="-4.12" y="-1.18" z="40.25" h="-43.79" />
   <item id="Nitro Big.005" x="-32.42" y="-0.58" z="-29.07" />
