@@ -1,15 +1,13 @@
-Pseudo code:
+#!/bin/bash
 
-loop over /usr/share/games/supertuxkart/data/tracks/*/scene.xml
-    if path is /usr/share/games/supertuxkart/data/tracks/sandtrack/scene.xml
-        do nothing
-    elif path is /usr/share/games/supertuxkart/data/tracks/xr591/scene.xml
-        do nothing
-    else
-        loop over all lines
-            if line contains string "small-nitro"
-                delete line
-            elif line contains string "big-nitro"
-                delete line
-            else
-                do nothing
+for track in /usr/share/games/supertuxkart/data/tracks/*/scene.xml
+    do
+        if [[ $track == "/usr/share/games/supertuxkart/data/tracks/sandtrack/scene.xml" ]]
+            then :
+        elif [[ $track = "/usr/share/games/supertuxkart/data/tracks/xr591/scene.xml" ]]
+            then :
+        else
+            gawk -i inplace '!/small-nitro/' $track
+            gawk -i inplace '!/big-nitro/' $track
+        fi
+    done
